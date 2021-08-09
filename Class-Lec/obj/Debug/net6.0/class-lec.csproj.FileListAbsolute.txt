@@ -1,0 +1,15 @@
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\bin\Debug\net6.0\class-lec.exe
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\bin\Debug\net6.0\class-lec.deps.json
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\bin\Debug\net6.0\class-lec.runtimeconfig.json
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\bin\Debug\net6.0\class-lec.dll
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\bin\Debug\net6.0\ref\class-lec.dll
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\bin\Debug\net6.0\class-lec.pdb
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\obj\Debug\net6.0\class-lec.csproj.AssemblyReference.cache
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\obj\Debug\net6.0\class-lec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\obj\Debug\net6.0\class-lec.AssemblyInfoInputs.cache
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\obj\Debug\net6.0\class-lec.AssemblyInfo.cs
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\obj\Debug\net6.0\class-lec.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\obj\Debug\net6.0\class-lec.dll
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\obj\Debug\net6.0\ref\class-lec.dll
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\obj\Debug\net6.0\class-lec.pdb
+C:\Users\bauti\source\repos\CSharp-Med-Course\class-lec\obj\Debug\net6.0\class-lec.genruntimeconfig.cache
