@@ -1,0 +1,15 @@
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\bin\Debug\net6.0\Constructers.exe
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\bin\Debug\net6.0\Constructers.deps.json
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\bin\Debug\net6.0\Constructers.runtimeconfig.json
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\bin\Debug\net6.0\Constructers.dll
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\bin\Debug\net6.0\ref\Constructers.dll
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\bin\Debug\net6.0\Constructers.pdb
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\obj\Debug\net6.0\Constructers.csproj.AssemblyReference.cache
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\obj\Debug\net6.0\Constructers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\obj\Debug\net6.0\Constructers.AssemblyInfoInputs.cache
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\obj\Debug\net6.0\Constructers.AssemblyInfo.cs
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\obj\Debug\net6.0\Constructers.csproj.CoreCompileInputs.cache
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\obj\Debug\net6.0\Constructers.dll
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\obj\Debug\net6.0\ref\Constructers.dll
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\obj\Debug\net6.0\Constructers.pdb
+C:\Users\bauti\source\repos\CSharp-Med-Course\Constructers\obj\Debug\net6.0\Constructers.genruntimeconfig.cache
